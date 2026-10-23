@@ -99,6 +99,3 @@ esp32-wifi-telemetry-monitor/
 └── README.md
 ```
 
-## License
-
-Choose a license before making the repository public. If you want others to reuse the code, MIT is a common permissive option; add a `LICENSE` file with the actual license text.
